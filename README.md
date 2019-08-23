@@ -2,7 +2,7 @@
 
 >最近在搞一个视频截图的功能，自己在探索过程中，看到很多各种各样的解法，走了很多弯路，为了避免做相同功能的朋友们走很多弯路，我把自己解决方案，及探索过程遇到的Bug记录下来
 >
->screenVideo是一个通用的视频截图工具，目前已经适配大部分机型，对于个别机型不能使用的欢迎issuses，Demo中的视频的url不可用，视频的url可以从任意视频网站找一个可以播放的视频地址，用火狐获取一下播放的URL,替换demo中的url即可 [Github下载](https://github.com/denghuilong/screenVideo/tree/master)
+>screenVideo是一个通用的视频截图工具，目前已经适配大部分机型，对于个别机型不能使用的欢迎issuses，Demo中的视频的url不可用，视频的url可以从任意视频网站找一个可以播放的视频地址，用火狐获取一下播放的URL,替换demo中的url即可 [Github下载](https://github.com/hi-dhl/screenVideo)
 
 
 
