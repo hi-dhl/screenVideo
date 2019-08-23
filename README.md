@@ -73,7 +73,7 @@ private Bitmap createVideoThumbnail(String url, int width, int height,String cur
 }
 ```
 
-[Github下载地址 : https://github.com/denghuilong/screenVideo/tree/master](https://github.com/denghuilong/screenVideo/tree/master)
+[Github下载地址 : https://github.com/hi-dhl/screenVideo](https://github.com/hi-dhl/screenVideo)
 
 ## bug及解决方案
 
